@@ -1,0 +1,17 @@
+
+.box{
+	padding: 30px 0;
+	height: 100vh;
+	background-color: gray;
+}
+.box h1{
+	padding: 15px 0;
+	font-size: 40px;
+	color: white;
+	text-align: center;
+}
+.box p{
+	 font-size: 20px;
+    color: white;
+    text-align: center;
+}
